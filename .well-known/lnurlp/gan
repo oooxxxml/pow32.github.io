@@ -4,9 +4,4 @@
   "metadata":"[[\"text/plain\",\"Pay to  阿甘\"],[\"text/identifier\",\"gan@pubkey.lol\"]]",
   "commentAllowed":32,
   "tag":"payRequest",
-  "payerData":
-    {
-       "name": {"mandatory": false},
-       "email": {"mamdatory": false}
-    }
   }
