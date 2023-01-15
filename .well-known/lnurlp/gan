@@ -1,8 +1,8 @@
 {
   "callback":"https://getalby.com/lnurlp/aso/callback/",
   "maxSendable":100000000000,
-  "minSendable":10,
-  "metadata":"[[\"text/plain\",\"Pay to aso\"],[\"text/identifier\",\"aso@getalby.com\"]]",
+  "minSendable":1000,
+  "metadata":"[[\"text/plain\",\"Pay to gan\"],[\"text/identifier\",\"aso@getalby.com\"]]",
   "commentAllowed":32,
   "tag":"payRequest"
   
