@@ -1,7 +1,7 @@
 {
   "callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/a621ad66-2705-4a86-a218-423de1d5edcc",
   "maxSendable":100000000000,"minSendable":1,
-  "metadata":"[[\"text/plain\",\"Pay to Wallet of Satoshi user: 阿甘\"],[\"text/identifier\",\"gan@pow32.pubkey.lol\"]]",
+  "metadata":"[[\"text/plain\",\"Pay to  阿甘\"],[\"text/identifier\",\"gan@pubkey.lol\"]]",
   "commentAllowed":32,
   "tag":"payRequest",
   "payerData":
