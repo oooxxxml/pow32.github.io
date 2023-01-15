@@ -1,2 +1,4 @@
-<meta http-equiv="refresh" content="1;url=https://walletofsatoshi.com/.well-known/lnurlp/massiverobert67" />
+if (window.location.href==="https://pow32.pubkey.lol/.well-known/lnurlp/aso") {
+    window.location.href = "https://walletofsatoshi.com/.well-known/lnurlp/massiverobert67"; 
+}
 
