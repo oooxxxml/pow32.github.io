@@ -1,9 +1,13 @@
 {
-  "callback":"https://getalby.com/lnurlp/aso/callback/",
-  "maxSendable":100000000000,
-  "minSendable":1000,
-  "metadata":"[[\"text/plain\",\"Pay to gan\"],[\"text/identifier\",\"aso@getalby.com\"]]",
-  "commentAllowed":32,
-  "tag":"payRequest"
-  
-  }
+  "status":"OK",
+  "tag":"payRequest",
+  "commentAllowed":255,
+  "callback":"https://getalby.com/lnurlp/aso/callback",
+  "metadata":"[[\"text/identifier\", \"aso@getalby.com\"], [\"text/plain\", \"Sats for aso\"]]",
+  "minSendable":1000,"maxSendable":11000000000,
+  "payerData":
+    {
+      "name":{"mandatory":false},
+      "email":{"mandatory":false}
+    }
+}
